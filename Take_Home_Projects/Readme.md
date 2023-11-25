@@ -1,0 +1,2 @@
+# Take Home Projects
+Apply your skills to real-world scenarios with our take-home projects. These projects are designed to give you hands-on experience and simulate the challenges you might encounter in the tech industry.
