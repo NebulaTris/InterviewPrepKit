@@ -1,12 +1,42 @@
+# InterviewPrepKit
 
-    ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗    ███████╗██╗   ██╗██╗     ███████╗██████╗ 
-    ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝    ██╔════╝██║   ██║██║     ██╔════╝██╔══██╗
-    ██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║       █████╗  ██║   ██║██║     █████╗  ██████╔╝
-    ██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║       ██╔══╝  ██║   ██║██║     ██╔══╝  ██╔══██╗ 
-    ██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║       ███████╗╚██████╔╝███████╗███████╗██║  ██║
-    ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝       ╚══════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
-                                                                                                                                                           
-My trial at understanding math and algorithms in multiple languages.
+![Alt text](image.gif)
+
+Welcome to InterviewPrepKit! 🚀 This repository is your one-stop destination for comprehensive interview preparation. Whether you're gearing up for coding interviews, want to master algorithms and data structures, or tackle challenging coding problems, we've got you covered.
+
+## Table of Contents
+1. [Algorithms](#algorithms)
+2. [Data Structures](#data-structures)
+3. [Take Home Projects](#take-home-projects)
+4. [Rosetta Code](#rosetta-code)
+5. [Project Euler](#project-euler)
+6. [LeetCode 75](#leetcode-75)
+7. [LeetCode 150](#leetcode-150)
+
+## Algorithms
+Explore a curated collection of classic and essential algorithms to sharpen your problem-solving skills. From sorting and searching to dynamic programming, we've covered it all.
+
+## Data Structures
+Master fundamental data structures such as arrays, linked lists, trees, and graphs. Understand when and how to use each structure efficiently.
+
+## Take Home Projects
+Apply your skills to real-world scenarios with our take-home projects. These projects are designed to give you hands-on experience and simulate the challenges you might encounter in the tech industry.
+
+## Rosetta Code
+Dive into the Rosetta Code section to see multiple implementations of the same algorithm or task in different programming languages. Gain insights into language-specific nuances.
+
+## Project Euler
+Embark on a journey to solve mathematical and computational problems with Project Euler. Sharpen your mathematical reasoning and programming prowess.
+
+## LeetCode 75
+Tackle the top 75 frequently asked LeetCode questions. These problems are carefully selected to help you prepare for a variety of technical interviews.
+
+## LeetCode 150
+Level up your coding skills with the LeetCode 150. This handpicked set of problems covers a wide range of topics and difficulty levels, preparing you for the toughest interviews.
+
+Feel free to explore, contribute, and enhance your coding abilities. Best of luck with your interview preparation! 🚀
+
+**Happy Coding!** 🎉
 
 :clock1: <b> Checkpoint </b>
 
