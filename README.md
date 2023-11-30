@@ -2,10 +2,10 @@
 
 ![Alt text](image.gif)
 
-Welcome to InterviewPrepKit! 🚀 This repository is your one-stop destination for comprehensive interview preparation. Whether you're gearing up for coding interviews, want to master algorithms and data structures, or tackle challenging coding problems, we've got you covered.
+Welcome to InterviewPrepKit! 🚀 This repository is your one-stop destination for comprehensive interview preparation. Whether you're gearing up for coding interviews, want to learn system design and data structures, or tackle challenging coding problems, we've got you covered.
 
 ## Table of Contents
-1. [Algorithms](#algorithms)
+1. [System Design](#system-design)
 2. [Data Structures](#data-structures)
 3. [Take Home Projects](#take-home-projects)
 4. [Rosetta Code](#rosetta-code)
@@ -13,8 +13,8 @@ Welcome to InterviewPrepKit! 🚀 This repository is your one-stop destination f
 6. [LeetCode 75](#leetcode-75)
 7. [LeetCode 150](#leetcode-150)
 
-## Algorithms
-Explore a curated collection of classic and essential algorithms to sharpen your problem-solving skills. From sorting and searching to dynamic programming, we've covered it all.
+## System Design
+Explore resources and practice problems to enhance your system design skills. Dive into discussions on scalable architecture and learn to design systems that meet real-world demands.
 
 ## Data Structures
 Master fundamental data structures such as arrays, linked lists, trees, and graphs. Understand when and how to use each structure efficiently.
