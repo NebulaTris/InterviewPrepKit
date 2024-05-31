@@ -9,7 +9,7 @@ Welcome to InterviewPrepKit! 🚀 This repository is your one-stop destination f
 2. [Data Structures](#data-structures)
 3. [Take Home Projects](#take-home-projects)
 4. [Rosetta Code](#rosetta-code)
-5. [Project Euler](#project-euler)
+5. [Important Patterns](#important-patterns)
 6. [LeetCode 75](#leetcode-75)
 7. [LeetCode 150](#leetcode-150)
 
@@ -25,8 +25,8 @@ Apply your skills to real-world scenarios with our take-home projects. These pro
 ## Rosetta Code
 Dive into the Rosetta Code section to see multiple implementations of the same algorithm or task in different programming languages. Gain insights into language-specific nuances.
 
-## Project Euler
-Embark on a journey to solve mathematical and computational problems with Project Euler. Sharpen your mathematical reasoning and programming prowess.
+## Important Patterns
+Learn the underlying patterns behind common coding interview questions. It provides a strategic approach to interview prep, focusing on essential patterns and techniques to solve problems efficiently, making it easier to navigate the vast number of potential questions.
 
 ## LeetCode 75
 Tackle the top 75 frequently asked LeetCode questions. These problems are carefully selected to help you prepare for a variety of technical interviews.
