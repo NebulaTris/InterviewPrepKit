@@ -7,7 +7,7 @@ Welcome to InterviewPrepKit! 🚀 This repository is your one-stop destination f
 ## Table of Contents
 1. [System Design](#system-design)
 2. [Data Structures](#data-structures)
-3. [Take Home Projects](#take-home-projects)
+3. [Hackerrank prep kits](#Hackerrank-prep-kits)
 4. [Rosetta Code](#rosetta-code)
 5. [Important Patterns](#important-patterns)
 6. [LeetCode 75](#leetcode-75)
@@ -19,8 +19,8 @@ Explore resources and practice problems to enhance your system design skills. Di
 ## Data Structures
 Master fundamental data structures such as arrays, linked lists, trees, and graphs. Understand when and how to use each structure efficiently.
 
-## Take Home Projects
-Apply your skills to real-world scenarios with our take-home projects. These projects are designed to give you hands-on experience and simulate the challenges you might encounter in the tech industry.
+## Hackerrank prep kits
+This Interview Preparation Kit has challenges curated by experts for you to prepare and ace your interview in a week's/month's/ 3 month's time. The kit includes challenges from various topics like Arrays, Strings, Sorting, Searching, Graphs, and more.
 
 ## Rosetta Code
 Dive into the Rosetta Code section to see multiple implementations of the same algorithm or task in different programming languages. Gain insights into language-specific nuances.
