@@ -1,0 +1,2 @@
+# Basics
+This section covers essential Java concepts like syntax, OOP principles (Encapsulation, Inheritance, Polymorphism, Abstraction), exception handling, and the Java Collections Framework. You'll also learn to analyze code efficiency using time and space complexity. These fundamentals will prepare you for advanced topics in coding interviews.
