@@ -1,4 +1,4 @@
-# InterviewPrepKit - Java
+# InterviewPrepKit 
 
 ![Alt text](image.gif)
 
